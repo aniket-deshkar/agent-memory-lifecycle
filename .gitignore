@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+.pytest-tmp/
+*.sqlite
+*.sqlite3
 __pycache__/
 *.py[codz]
 *$py.class
